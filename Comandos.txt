@@ -1,0 +1,33 @@
+http://tfs-ms.baufest.com/tfs/Baufest/PEI%20full-stack%20developer/_git/Grupo3
+
+PEI-user3
+Baufest3
+
+git clone http://tfs-ms.baufest.com/tfs/Baufest/PEI%20full-stack%20developer/_git/Grupo3
+
+git remote add origin https://PEI-user3:Baufest3@github.com/PEI-user3/http://tfs-ms.baufest.com/tfs/Baufest/PEI%20full-stack%20developer/_git/Grupo3
+
+
+-------------------------------------------------------------
+Hay que configurar adecuadamente la base de datos con "ormconfig.json"
+
+**************problema con el cliente angular
+npm install -g angular-cli
+
+npm install -g @angular/cli@latest
+
+
+****************Cors problem...
+npm install corse
+
+****************Arreglando la conexion a la DB
+npm install mysql --save
+
+****************Finalmente levantamos el backend
+npm run dev
+-------------------------------------------------------------
+
+https://text-compare.com/
+
+netstat -a -o -n
+taskkill /F /PID (yourprocessID)
