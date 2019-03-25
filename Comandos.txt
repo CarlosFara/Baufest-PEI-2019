@@ -31,3 +31,6 @@ https://text-compare.com/
 
 netstat -a -o -n
 taskkill /F /PID (yourprocessID)
+
+
+https://text-compare.com/
