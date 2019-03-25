@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\partials",
+    "\\src\\app\\components\\partials\\jugador-form",
+    "\\src\\app\\components\\partials\\partido-form",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\components\\partials\\partido-form\\partido-form.component.spec.ts",
+  "PreviewInSolutionExplorer": false
+}
